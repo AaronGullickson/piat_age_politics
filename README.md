@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Age and Political Ideology
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+We will use data from the Cooperative Election Study to examine the relationship between a respondent's political ideology and their age. We will also examine how this relationship varies by the respondent's media usage.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the relationship between a person's age and their political ideology on a liberal to conservative scale?
+2. Does the relationship between a person's age and their political ideology differ among regular viewers of FOX and MSNBC News, respectively?
 
 ## Technical Details
 
